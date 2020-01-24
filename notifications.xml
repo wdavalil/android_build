@@ -1,5 +1,9 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Dump Threads Group" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" />
   </component>
 </application>
