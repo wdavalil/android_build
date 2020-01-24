@@ -4,6 +4,6 @@
     <notification groupId="Dump Threads Group" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
-    <notification groupId="Gradle Notification Group" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
   </component>
 </application>
